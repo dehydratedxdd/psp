@@ -25,3 +25,29 @@
 .brand-logo{
     height: 130px;
 }
+
+.nav-items{
+    display:flex;
+    align-items: center;
+
+}
+.search{
+    width: 500px;
+    display: flex;
+
+
+}.search-box{
+    width: 80px;
+    height: 40px;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: 1px solid #d1d1d1;
+    text-transform: capitalize;
+    background: none;
+    color: #a9a9a9;
+    outline: none;
+
+
+}
+
